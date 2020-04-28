@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Data Type-FloatPointType\Data Type-FloatPointType\bin\Debug\Data Type-FloatPointType.exe.config
+D:\Visual Studio Codes\Data Type-FloatPointType\Data Type-FloatPointType\obj\Debug\Data Type-FloatPointType.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Data Type-FloatPointType\Data Type-FloatPointType\bin\Debug\Data Type-FloatPointType.exe
+D:\Visual Studio Codes\Data Type-FloatPointType\Data Type-FloatPointType\bin\Debug\Data Type-FloatPointType.pdb
+D:\Visual Studio Codes\Data Type-FloatPointType\Data Type-FloatPointType\obj\Debug\Data Type-FloatPointType.exe
+D:\Visual Studio Codes\Data Type-FloatPointType\Data Type-FloatPointType\obj\Debug\Data Type-FloatPointType.pdb
