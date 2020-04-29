@@ -1,6 +1,0 @@
-D:\Visual Studio Codes\FirstPrograme\FirstPrograme\bin\Debug\FirstPrograme.exe.config
-D:\Visual Studio Codes\FirstPrograme\FirstPrograme\bin\Debug\FirstPrograme.exe
-D:\Visual Studio Codes\FirstPrograme\FirstPrograme\bin\Debug\FirstPrograme.pdb
-D:\Visual Studio Codes\FirstPrograme\FirstPrograme\obj\Debug\FirstPrograme.csprojResolveAssemblyReference.cache
-D:\Visual Studio Codes\FirstPrograme\FirstPrograme\obj\Debug\FirstPrograme.exe
-D:\Visual Studio Codes\FirstPrograme\FirstPrograme\obj\Debug\FirstPrograme.pdb

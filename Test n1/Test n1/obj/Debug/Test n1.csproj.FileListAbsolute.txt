@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Test n1\Test n1\bin\Debug\Test n1.exe.config
+D:\Visual Studio Codes\Test n1\Test n1\bin\Debug\Test n1.exe
+D:\Visual Studio Codes\Test n1\Test n1\bin\Debug\Test n1.pdb
+D:\Visual Studio Codes\Test n1\Test n1\obj\Debug\Test n1.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Test n1\Test n1\obj\Debug\Test n1.exe
+D:\Visual Studio Codes\Test n1\Test n1\obj\Debug\Test n1.pdb
